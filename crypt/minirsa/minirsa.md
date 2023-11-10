@@ -9,9 +9,13 @@ ciphertext (c): 1220012318588871886132524757898884422174534558055593713309088304
 RSA is a cryptosystem that has to main components - public key and private key. It operates on the following equation: 
 
 $$ M^e = k \times N + C $$
+<<<<<<< HEAD
 
 given the values of `N`, `e` and `C` we rewrite as:
 
+=======
+given the values of `N`, `e` and `C` we rewrite as:
+>>>>>>> ac10b22618d2f2ffffb492fdee49b51ec8c942be
 $$ M =  (k \times N + C) ^ {1/e} $$
 
 but k is still unknown
