@@ -9,7 +9,6 @@ ciphertext (c): 1220012318588871886132524757898884422174534558055593713309088304
 RSA is a cryptosystem that has to main components - public key and private key. It operates on the following equation: 
 
 $$ M^e = k \times N + C $$
-<<<<<<< HEAD
 
 given the values of `N`, `e` and `C` we rewrite as:
 
