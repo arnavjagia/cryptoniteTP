@@ -1,5 +1,5 @@
 the html and css were pretty basic and leading to nothing as well no other files were coming up on the sources tab  
-hint provided talked about concealment of a file which like in [Scavenger Hunt](webpico/Scavenger%20Hunt.md), one uses `robots.txt` to prevent user-agents from acessing those files  
+hint provided talked about concealment of a file which like in [Scavenger Hunt](./Scavenger%20Hunt.md), one uses `robots.txt` to prevent user-agents from acessing those files  
 pulling that up
 ![robots.txt](https://github.com/arnavjagia/cryptoniteTP/assets/89345926/71e2f738-2b25-4538-8a98-394168090f63)
 we get a `.html` file  
